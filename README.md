@@ -7,12 +7,15 @@ Hired.CodeFellows is a solution to resume bias, partnering qualified candidates 
 
 ##### Deployment
 https://hired-codefellows.herokuapp.com/
+
 (The front and back-end dynos make take a few moments to spin up.)
 
-##### Code - Front and Back end
+##### Code - Front and Back
 https://github.com/codefellows-talent
 
-The wireframe provided is available on the front-end README. All other documentation was created as part of the project during the planning phase.
+The wireframe provided is available on the front-end README. 
+
+All other documentation was created as part of the project during the planning phase.
 
 Product developed for clients: CodeFellows CEO Jeff Malek and VP of Education Brook Riggo.
 
